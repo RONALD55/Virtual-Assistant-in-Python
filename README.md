@@ -14,18 +14,18 @@ pip install -r requirements.txt
 ```
 ### Having issues installing PyAudio
 
-######installing pyaudio on python (ubuntu)
+######installing pyaudio on python (ubuntu-linux)
 ```python
 sudo apt-get install python3-pyaudio
 ```
 
-######installing pyaudio on python (fedora)
+######installing pyaudio on python (fedora-linux)
 ```python
 sudo yum install python3-pyaudio
 ```
 
 
-###### installing pyaudio on 
+###### installing pyaudio on Windows
 ```python
 pip install pipwin
 pipwin install pyaudio
